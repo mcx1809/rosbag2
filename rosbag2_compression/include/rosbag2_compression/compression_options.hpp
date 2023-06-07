@@ -16,6 +16,7 @@
 #define ROSBAG2_COMPRESSION__COMPRESSION_OPTIONS_HPP_
 
 #include <string>
+#include <cstdint>
 
 #include "visibility_control.hpp"
 
